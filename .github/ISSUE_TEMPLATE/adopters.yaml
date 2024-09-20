@@ -1,8 +1,6 @@
 name: Become an Adopter
-about: Add the name of your organization to the list of adopters.
-title: ''
-labels: ''
-assignees: ''
+description: Add the name of your organization to the list of adopters.
+title: '[organization] has adopted Substation'
 body:
   - type: markdown
     attributes:
