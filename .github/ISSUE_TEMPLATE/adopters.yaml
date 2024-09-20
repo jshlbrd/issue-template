@@ -26,18 +26,18 @@ body:
     validations:
       required: true
   - type: dropdown
-      id: stage
-      attributes:
-        label: Stage of Adoption
-        description: What is your current stage of adoption?
-        options:
-          - We're learning about Substation
-          - We're testing Substation
-          - We're using Substation in production
-          - We're driving broad adoption of Substation
-        default: 0
-      validations:
-        required: true
+    id: stage
+    attributes:
+      label: Stage of Adoption
+      description: What is your current stage of adoption?
+      options:
+        - We're learning about Substation
+        - We're testing Substation
+        - We're using Substation in production
+        - We're driving broad adoption of Substation
+      default: 0
+    validations:
+      required: true
   - type: textarea
     id: use-case
     attributes:
