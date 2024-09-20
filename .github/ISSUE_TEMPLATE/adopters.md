@@ -3,7 +3,6 @@ about: Add the name of your organization to the list of adopters.
 title: ''
 labels: ''
 assignees: ''
-
 body:
   - type: markdown
     attributes:
